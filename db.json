@@ -29,5 +29,5 @@
   "profile": [
 	{ "id": 1, "name": "aliefian", "password":"admin", "alamat":"Tangerang"},
 	{ "id": 2, "name": "aliefian", "password":"admin", "alamat":"Bandung"}
-  ],
+  ]
 }
