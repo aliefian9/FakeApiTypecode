@@ -27,7 +27,7 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": [
-	{ "id": 1, "name": "aliefian", "password":"admin", "alamat":"Tangerang"},
-	{ "id": 2, "name": "feila", "password":"admin", "alamat":"Bandung"}
+	{ "id": 1, "name": "aliefian", "password":"admin", "alamat":"Tangerang", "token": "12345"},
+	{ "id": 2, "name": "feila", "password":"admin", "alamat":"Bandung", "token": "54321"}
   ]
 }
