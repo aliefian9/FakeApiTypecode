@@ -20,7 +20,7 @@
     { "id": 18, "nama": "Genteng" },
     { "id": 19, "nama": "Mouse" },
     { "id": 20, "nama": "Keyboard" },
-    { "id": 21, "nama": "Saputangan" },	
+    { "id": 21, "nama": "Saputangan" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
